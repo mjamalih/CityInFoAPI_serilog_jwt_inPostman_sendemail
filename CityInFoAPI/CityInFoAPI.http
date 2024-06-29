@@ -1,0 +1,6 @@
+@CityInFoAPI_HostAddress = http://localhost:5157
+
+GET {{CityInFoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
